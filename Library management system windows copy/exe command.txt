@@ -1,0 +1,1 @@
+pyinstaller --onedir --onefile --name=LMS --windowed "E:\python\Python Projects\Lms last - windows Copy\Final_LMS_v.1.0.0.0.py"

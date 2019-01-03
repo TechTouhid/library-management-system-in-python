@@ -1,0 +1,14 @@
+Student Report
++-------------------------+--------------+---------+----------------+-------+------------+--------------+
+| bookname                | writername   | bookuid | numberofcopies | prize | publisher  | bookcategory |
++-------------------------+--------------+---------+----------------+-------+------------+--------------+
+| C++                     | Abdur Rashid | 1       | 5              | 500   | Haque      | Computer     |
+| Geomatry                | Eamin        | 2       | 3              | 890   | Haque      | Normal       |
+| computer Application    | eamin        | 3       | 3              | 333   | Haque      | Tech         |
+| Micro proserror         | Nasrin       | 5       | 6              | 500   | Techinecal | Tech         |
+| English For Today       | Eamin        | 6       | 6              | 450   | Alamin     | Normal       |
+| Bangla                  | Touhid       | 7       | 2              | 712   | Eamin      | Normal       |
+| Social Science          | FA Karim     | 10      | 1              | 664   | Haque      | Normal       |
+| Programmming Language 3 | Rashid Sir   | 12      | 2              | 500   | Haque      | Tech         |
+| Book Keeping            | x            | 15      | 5              | 500   | Haque      | Non tech     |
++-------------------------+--------------+---------+----------------+-------+------------+--------------+

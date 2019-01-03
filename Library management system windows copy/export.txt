@@ -1,0 +1,15 @@
+Book Report
++--------------+-----------------+--------------+--------+------------+----------+-------+------------+------------+
+| studentname  | address         | phoneno      | roll   | department | semester | shift | date       | bookonhand |
++--------------+-----------------+--------------+--------+------------+----------+-------+------------+------------+
+| Azijul islam | Nilfamari       | 017548765485 | 809773 | Computer   | 7th      |  1st  | 16/09/2017 | 0          |
+| Ibrahim Ali  | Bagha           | 017658748936 | 216529 | Computer   | 5th      |  1st  | 29/9/2017  | 0          |
+| Murad Khan   | Bagmara         | 01738832285  | 808575 | Computer   | 7th      |  2nd  | 3/10/2017  | 0          |
+| Nahid Alta   | Rajshahi        | 017546566557 | 807787 | Computer   | 7th      |  1st  | 17/9/2017  | 0          |
+| Nishan       | Rajshahi, vodra | 01723255423  | 808519 | Computer   | 7th      |  1st  | 10/9/2017  | 1          |
+| Raju Ahmed   | RPI             | 01793771531  | 216513 | Computer   | 5th      |  1st  | 6/10/2017  | 0          |
+| Sohel Ali    | Lalpur, Natore  | 01774626532  | 809771 | Computer   | 7th      |  1st  | 22/9/2017  | 0          |
+| Subrato Roy  | Rajshahi        | 01765945791  | 868199 | Computer   | 7th      |  1st  | 16/09/2017 | 2          |
+| Sukur Ali    | Rajshahi        | 0124425555   | 821088 | Computer   | 7th      |  1st  | 24/9/2017  | 0          |
+| xxx          | x               | 017542542154 | 123    | Electrical | 4th      |  2nd  | 30/12/2017 | 0          |
++--------------+-----------------+--------------+--------+------------+----------+-------+------------+------------+
